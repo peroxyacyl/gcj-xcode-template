@@ -8,4 +8,4 @@ Google Code Jam Project Template for Xcode
 # Install
 
     mkdir -p ~/Library/Developer/Xcode/Templates/Project\ Templates/Application
-    cp -r GoogleCodeJam.xctemplate ~/Library/Developer/Xcode/Templates/Project\ Templates/Application/
+    cp -r Google\ Code\ Jam.xctemplate ~/Library/Developer/Xcode/Templates/Project\ Templates/Application/
