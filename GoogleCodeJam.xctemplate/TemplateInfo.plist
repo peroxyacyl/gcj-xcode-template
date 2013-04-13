@@ -75,7 +75,13 @@
 					<key>Definitions</key>
 					<dict>
 						<key>main.cpp:include</key>
-						<string>#include &lt;iostream&gt;
+						<string>//
+//  This code is powered by peroxyacyl&apos;s GCJ Template for Xcode.
+//  https://github.com/peroxyacyl/gcj-xcode-template
+//
+
+
+#include &lt;iostream&gt;
 #include &lt;fstream&gt;
 #include &lt;vector&gt;
 #include &lt;list&gt;
