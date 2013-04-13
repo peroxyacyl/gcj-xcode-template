@@ -1,5 +1,9 @@
-gcj.xctemplate
+Google Code Jam Project Template for Xcode
 ==============
+
+# Available languages
+
+* C++
 
 # Install
 
